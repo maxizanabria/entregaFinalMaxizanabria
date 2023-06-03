@@ -1,0 +1,31 @@
+[
+
+
+    {"id": "analgesico 1","titulo": "Anaflex perlas","imagen": "./imagenes/01/01.jpg","categoria": {"nombre": "analgesico","id": "analgesico"},"precio": 1367 },
+    {"id": "analgesico 2","titulo": "Flexipen B12","imagen": "./imagenes/01/02.jpg","categoria": {"nombre": "analgesico","id": "analgesico"},"precio": 2216 },
+    {"id": "analgesico 3","titulo": "Floxin Flex","imagen": "./imagenes/01/03.jpg","categoria": {"nombre": "analgesico","id": "analgesico"},"precio": 1955 },
+    {"id": "analgesico 4 ","titulo": "Tafirol Forte","imagen": "./imagenes/01/04.jpg","categoria": {"nombre": "analgesico","id": "analgesico"},"precio": 988},
+    {"id": "analgesico 5 ","titulo": "Tramadol","imagen": "./imagenes/01/05.jpg","categoria": {"nombre": "analgesico","id": "analgesico"},"precio": 4223},
+
+
+    {"id": "Antialergico","titulo": "Cetrizet","imagen": "./imagenes/02/01.jpg","categoria": {"nombre": "antialergico","id": "antialergico"},"precio": 1340},
+    {"id": "Antialergico","titulo": "Gripaben plus","imagen": "./imagenes/02/02.jpg","categoria": {"nombre": "antialergico","id": "antialergico"},"precio": 1200},
+    {"id": "antialergico","titulo": "Cetirizina Jarabe","imagen": "./imagenes/02/03.jpg","ategoria": {"nombre": "antialergico","id": "antialergico"},"precio": 1680},
+    {"id": "Antialergico","titulo": "Aerotina","imagen": "./imagenes/02/04.jpg","categoria": {"nombre": "antialergico","id": "antialergico"},"precio": 680},
+    {"id": "Antialergico","titulo": "Allegra Fexofenadina","imagen": "./imagenes/02/05.jpg","categoria": {"nombre": "antialergico","id": "antialergico"},"precio": 999},
+    {"id": "Antialergico","titulo": "Difenhidramina","imagen": "./imagenes/02/06.jpg","categoria": {"nombre": "antialergico","id": "antialergico"},"precio": 1474},
+    {"id": "Antialergico","titulo": "Clorferinamina","imagen": "./imagenes/02/07.jpg","categoria": {"nombre": "antialergico","id": "antialergico"},"precio": 1234},
+    {"id": "Antialergico","titulo": "antialergico 8","imagen": "./imagenes/02/08.jpg","categoria": {"nombre": "antialergico","id": "antialergico"},"precio": 6778},
+
+
+
+    {"id": "Antibiotico","titulo": "antibiotico 1","imagen": "./imagenes/03/01.jpg","categoria": {"nombre": "antibiotico","id": "antibiotico"},"precio": 5424},
+    {"id": "Antibiotico","titulo": "antibiotico 2","imagen": "./imagenes/03/02.jpg","categoria": {"nombre": "antibiotico","id": "antibiotico"},"precio": 2432},
+    {"id": "Antibiotico","titulo": "antibiotico 3","imagen": "./imagenes/03/03.jpg","categoria": {"nombre": "antibiotico","id": "antibiotico"},"precio": 1888},
+    {"id": "antibiotico","titulo": "antibiotico 04","imagen": "./imagenes/03/04.jpg","categoria": {"nombre": "antibiotico","id": "antibiotico"},"precio": 1291},
+    {"id": "Antibiotico","titulo": "antibiotico 5","imagen": "./imagenes/03/05.jpg","categoria": {"nombre": "antibiotico","id": "antibiotico"},"precio": 6732}
+
+
+
+]
+
